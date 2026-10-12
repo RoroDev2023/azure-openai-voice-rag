@@ -152,3 +152,10 @@ static/
 data/**/*.md5
 
 .DS_Store
+
+.env
+.env.*
+!.env.example
+app/backend/recorded_audios/
+ai-speech-to-speech/
+ai-speech-to-speech.git/
